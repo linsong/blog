@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My thoughts of things</title>
+    <link>http://linsong.github.io/blog/post/</link>
+    <description>Recent content in Posts on My thoughts of things</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jul 2017 21:07:45 +0800</lastBuildDate>
+    
+	<atom:link href="http://linsong.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://linsong.github.io/blog/post/hello-world/</link>
+      <pubDate>Thu, 13 Jul 2017 21:07:45 +0800</pubDate>
+      
+      <guid>http://linsong.github.io/blog/post/hello-world/</guid>
+      <description>this is a hello world post</description>
+    </item>
+    
+  </channel>
+</rss>
